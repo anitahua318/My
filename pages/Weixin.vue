@@ -1,20 +1,8 @@
-<!DOCTYPE html>
-<html>
-<title>W3.CSS</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<body>
+<template>
+    <div>
+        <p>
+            In 2019, I decided to come to the States. I was luckily accepted into my dream boarding school in Western Mass. To record my journey, I opened a blog account. The 14-year-old Anita wouldn't have known that this simple move gained her popularity amongst study-abroads, and made her a essay tutor, college counselor, and life coach of up to 400 students.  
+        </p>
+    </div>
+</template>
 
-<div class="w3-container">
-  <h2>Panels for Notes</h2>
-  <p>The w3-panel class can be used to display notes:</p>
-
-  <div class="w3-panel w3-pale-green">
-    <p>London is the most populous city in the United Kingdom,
-    with a metropolitan area of over 9 million inhabitants.</p>
-  </div>
-
-</div>
-
-</body>
-</html>
